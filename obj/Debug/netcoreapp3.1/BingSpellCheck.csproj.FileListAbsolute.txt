@@ -1,0 +1,15 @@
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.csproj.AssemblyReference.cache
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.AssemblyInfoInputs.cache
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.AssemblyInfo.cs
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.csproj.CoreCompileInputs.cache
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.exe
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.deps.json
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.runtimeconfig.json
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.runtimeconfig.dev.json
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.dll
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\BingSpellCheck.pdb
+C:\src\BingSpellCheck\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.csproj.CopyComplete
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.dll
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.pdb
+C:\src\BingSpellCheck\obj\Debug\netcoreapp3.1\BingSpellCheck.genruntimeconfig.cache

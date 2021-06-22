@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KOH+TwcKSotsv4ndy3bWaM82rZ/qdY8Tq5Yj/Ku9lZTlSo9SYH+qpay/NagEfwJgtdycFx4v5sRtWBnfLvH7A==",
+  "success": true,
+  "projectFilePath": "C:\\src\\BingSpellCheck\\BingSpellCheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbreece\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
